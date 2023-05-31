@@ -1,0 +1,16 @@
+{
+    "defaultEnv": {"ENV": "EIGHT_MEDICALS_NODE_ENV"},
+    "development": {
+      "ENV": "EIGHT_MEDICALS_DEV_DATABASE_STRING"
+    },
+    "test":{
+      "ENV": "EIGHT_MEDICALS_TEST_DATABASE_STRING"
+    },
+    "prod":{
+        "ENV": "EIGHT_MEDICALS_PROD_DATABASE_STRING"
+    },
+    "staging":{
+      "ENV": "EIGHT_MEDICALS_STAGING_DATABASE_STRING"
+    },
+    "sql-file": true
+  }

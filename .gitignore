@@ -1,0 +1,13 @@
+node_modules
+videos/
+db-data
+docker-compose.yml
+.env
+/log
+log/
+*.log
+server.log
+sm.js
+dist
+package-lock.json
+.DS_Store

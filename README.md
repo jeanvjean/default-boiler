@@ -1,9 +1,7 @@
 <==========================================>
 ## Getting Started
 
-git clone https://github.com/enyata/mdaas.git
-
-cd mdaas
+clone the repository
 
 - run: npm install to install dependencies, 
 
@@ -27,11 +25,11 @@ cd mdaas
 
 - Download .env file and put it in the root folder.
 
-- npm run dev starts the dev server
+- npm run dev ===> starts the dev server
 
-- npm run start for production server
+- npm run start ===> for production server
 
-- npm run test to run test cases
+- npm run test to run test suit
 <==========================================>
 
 | Name | Description |
